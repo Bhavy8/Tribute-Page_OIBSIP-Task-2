@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lugrasimo", cursive;
+}
+.container {
+  border: 2px solid black;
+  margin: 8px 10px;
+  border-radius: 8px;
+  background-color: lightgray;
+}
+.block {
+  display: block;
+  margin: 30px auto;
+  width: 20%;
+}
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+#blocke {
+  font-size: 15px;
+  margin: 0px -16px;
+}
+.images {
+  margin: 0px 624px;
+  margin-top: -10px;
+  width: 150px;
+  height: 155px;
+  border: 0.5px solid rgb(86, 84, 84);
+  border-radius: 1px;
+}
+.para {
+  text-align: justify;
+  margin: 10px 80px;
+}
+p {
+  font-size: 20px;
+}
+#vid {
+  margin: 60px 340px;
+  margin-bottom: 250px;
+}
+.foot {
+  margin-top: 80px;
+  padding: 4px;
+  margin-bottom: 1px;
+  font-size: 20px;
+  background-color: darkgray;
+  border-radius: 6px;
+  text-align: center;
+}
+.foot:hover {
+  background-color: rgb(63, 61, 61);
+}
+.space {
+  font-size: 25px;
+  margin-bottom: 8px;
+}
